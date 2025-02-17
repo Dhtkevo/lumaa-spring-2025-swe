@@ -1,0 +1,29 @@
+{
+  "name": "lumaa-spring-2025-swe",
+  "version": "1.0.0",
+  "description": "**Deadline**: Sunday, Feb 23th 11:59 pm PST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhtkevo/lumaa-spring-2025-swe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Dhtkevo/lumaa-spring-2025-swe/issues"
+  },
+  "homepage": "https://github.com/Dhtkevo/lumaa-spring-2025-swe#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.1",
+    "express": "^4.21.2",
+    "express-async-handler": "^1.2.0",
+    "express-validator": "^7.2.1",
+    "passport-local": "^1.0.0",
+    "pg": "^8.13.3"
+  }
+}
